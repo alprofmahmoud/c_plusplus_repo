@@ -1,0 +1,4 @@
+in mode command line " : " or Normal
+# replace 
+cmdline = :%s/word/newWord/gc
+# % = , = s = , g = , c = confirm,
