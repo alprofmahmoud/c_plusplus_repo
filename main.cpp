@@ -3,16 +3,17 @@
 using namespace std;
 
 int main(){
+    string name="unknown";
+    name="ahmed";
+    name="eslam";
+    name="mohamed";
+    int x=12;
+    cout<<"x = "<<x<<endl;
+    cout<<name<<endl;
+    int z,y,n,m,v;
 
-  string sprator = "+++++++++++++++++++++++++++\n";
-  string firstName = "Mahmoud";
-  string lastName  = " Mohammed";
-  cout << firstName + "" + lastName <<endl;
-  string fulName   = firstName.append(lastName);
-  cout <<fulName<<endl;
-  string txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-cout << "The length of the txt string is: " << txt.length();
-  return 0;
+
+     return 0;
 }
 // #include<iostream>   : header file library
 // using namespace std : we can use names for objects and variables from the standard library.
@@ -98,8 +99,8 @@ cout << "The length of the txt string is: " << txt.length();
 //  varString[index] : You can access the characters in a string
 //  max(var1,var2)   : used to find the highest value of var1 and var2
 //  cmath         : Header mathematical header file library 
-    sqrt()        : square root
-    round()       : rounds a number
-    log()         : natural logarithm
+//    sqrt()        : square root
+//    round()       : rounds a number
+ //   log()         : natural logarithm
 
 
