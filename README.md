@@ -6,7 +6,7 @@
 >
 > - gcc is compiler ___C___
 > - g++ is compiler ***C++***
-'''c
+```c++
         #include<iostream>
         #include<cmath>
         using namespace std;
@@ -23,10 +23,10 @@
 
          return 0;
             }
-'''
-'''python
+```
+```python
     print("Hello world !")
-'''
+```
 
 -  " ; " = Semicolon.
 -  " \ " = Backslash.
