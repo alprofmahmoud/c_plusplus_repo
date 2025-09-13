@@ -6,6 +6,10 @@
 >
 > - gcc is compiler ___C___
 > - g++ is compiler ***C++***
+Main title
+==========
+# Main title
+
 ```c++
     #include<iostream>
     #include<cmath>
@@ -32,6 +36,7 @@
 -[x]jnputs
 
 [Google](www.google.com)
+[1]:www.github.com
 
 1. item one
 2. item two
@@ -47,6 +52,7 @@
 * line one
 
 > this this quots
+>> this is quots.
 
 ---
 ***
@@ -59,7 +65,7 @@ colum1|colum2|colum3
 data1|data2|data3
 
 Markdown
-:this is markdown script.
+: this is markdown script.
 -  " ; " = Semicolon.
 -  " \ " = Backslash.
 -  " / " = Slash.
