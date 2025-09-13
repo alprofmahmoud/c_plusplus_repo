@@ -6,6 +6,24 @@
 >
 > - gcc is compiler ___C___
 > - g++ is compiler ***C++***
+''' c++
+#include<iostream>
+#include<cmath>
+using namespace std;
+
+int main(){
+    string name="unknown";
+    name="ahmed";
+    name="eslam";
+    name="mohamed";
+    int x=12;
+    cout<<"x = "<<x<<endl;
+    cout<<name<<endl;
+    int z,y,n,m,v;
+
+
+     return 0;
+}
 
 -  " ; " = Semicolon.
 -  " \ " = Backslash.
