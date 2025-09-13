@@ -6,11 +6,11 @@
 >
 > - gcc is compiler ___C___
 > - g++ is compiler ***C++***
-'''c++
-    #include<iostream>
-    #include<cmath>
-    using namespace std;
-    int main(){
+'''c
+        #include<iostream>
+        #include<cmath>
+        using namespace std;
+        int main(){
         string name="unknown";
         name="ahmed";
         name="eslam";
@@ -22,7 +22,10 @@
 
 
          return 0;
-    }
+            }
+'''
+'''python
+print("Hello world !")
 '''
 
 -  " ; " = Semicolon.
