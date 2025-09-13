@@ -29,7 +29,33 @@
     greating()
 ```
 -[]Operatios
--[]jnputs
+-[x]jnputs
+
+[Google](www.google.com)
+
+1.item one
+2.item two
+3. item three
+
+1. item one
+2. item two
+3. item three
+
++ line one
++line tow
+
+* line one
+
+> this this quots
+
+---
+***
+___
+
+this is pragraph.
+
+
+
 -  " ; " = Semicolon.
 -  " \ " = Backslash.
 -  " / " = Slash.
