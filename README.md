@@ -22,13 +22,14 @@
     return 0;
     }
 ```
-```python
+```
     print("Hello world !")
     def greating():
         print(Hello {name})
     greating()
 ```
-
+-[]Operatios
+-[]jnputs
 -  " ; " = Semicolon.
 -  " \ " = Backslash.
 -  " / " = Slash.
