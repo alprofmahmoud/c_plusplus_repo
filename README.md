@@ -6,11 +6,10 @@
 >
 > - gcc is compiler ___C___
 > - g++ is compiler ***C++***
-''' c++
+'''c++
     #include<iostream>
     #include<cmath>
     using namespace std;
-
     int main(){
         string name="unknown";
         name="ahmed";
@@ -24,6 +23,7 @@
 
          return 0;
     }
+'''
 
 -  " ; " = Semicolon.
 -  " \ " = Backslash.
