@@ -32,8 +32,12 @@ Main title
         print(Hello {name})
     greating()
 ```
--[]Operatios
--[x]jnputs
+- [ ] Operatios
+- [x] inputs
+
+::: details Click to expand
+Detailed content here
+:::
 
 [Google](www.google.com)
 [1]:www.github.com
@@ -48,21 +52,44 @@ Main title
 
 + line one
 + line tow
-
 * line one
+
+=== Hi ===
 
 > this this quots
 >> this is quots.
 
 ---
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 ***
+![beautiful lake](https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg)
 ___
+`console.log('Hello World')`
+```javascript
+function greet(name) {
+  return `Hello, ${name}!`;
+}
+```
 
+Depending on how much cookie dough you eat, you’ll have about ==20-22== cookies from this recipe!
 this is pragraph.
+> This is a blockquote
+>  This is a blockquote
+>  This is a blockquote
+
+
 
 colum1|colum2|colum3
---------|--------|--------
+:------|:------:|------:
 data1|data2|data3
+data1|data2|data3
+
+| Left | Center | Right |
+|:-----|:------:|------:|
+| Text | Text   | Text  |
+
 
 Markdown
 : this is markdown script.
@@ -74,3 +101,7 @@ Markdown
 -  " | " = Vertical bar in Computing is Pipe .
 -  " {} " = curly brackets.
 -  " [] " = square brackets.
+
+==highlight==
+
+- ++your text++
